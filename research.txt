@@ -1,0 +1,19 @@
+# Research
+
+
+#### Corners detection
+
+-
+
+#### Feature matching
+
+-
+
+#### Histogram comparison
+
+- Find on frame palete with pattern find rectangle homography ROI
+- calc histograms for template and frame ROI
+- 
+
+#### Image Segmentation
+
